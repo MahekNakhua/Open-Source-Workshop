@@ -41,7 +41,7 @@ def cm_to_inch(cm):
 
 # function to convert cm to mm
 def cm_to_mm(cm_mm):
-    print(f'{cm_mm}cm in mm is: {cm_mm*10} mm')
+    print(f'{cm_mm}cm in mm is: {cm_mm*100} mm')
 
 
 if __name__ == "__main__":
